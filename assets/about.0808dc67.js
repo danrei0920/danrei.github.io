@@ -1,0 +1,1 @@
+import{k as a,o as t,f as s,i as o}from"./index.3848289f.js";const _={class:"aboutPage"},u={__name:"about",setup(n){const e=a("Designed by MEC Shanghai, 2022, Ver 0.1.0");return(c,r)=>(t(),s("div",_,o(e.value),1))}};export{u as default};
